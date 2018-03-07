@@ -30,8 +30,8 @@ public Tablero (int ancho, int largo){
     Sembrador miTrabajador ;
     miTrabajador = new Sembrador ();
     miTrabajador.sembrarCorazon(miCelda, 50);
-
-}  
+    
+}
 
 
 
